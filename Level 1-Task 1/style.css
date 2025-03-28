@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+h2 {
+    color: #333;
+}
+
+#about {
+    text-align: center;
+    padding: 2em 0;
+}
+
+.profile-image {
+    width: 150px;
+    border-radius: 50%;
+}
+
+section {
+    margin: 2em 0;
+    padding: 0 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project {
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #ddd;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
